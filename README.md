@@ -1,4 +1,6 @@
 # Zertte-web-sait
+Zertte FTC 2024/2025 into the deep sait
+
 
 # 🌐 ZERTTE ROOM
 
